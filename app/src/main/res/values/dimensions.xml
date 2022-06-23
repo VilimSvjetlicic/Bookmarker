@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_fab">20dp</dimen>
+    <dimen name="title_text_size">15sp</dimen>
+    <dimen name="author_text_size">10sp</dimen>
+    <dimen name="margin_text">5dp</dimen>
+</resources>
